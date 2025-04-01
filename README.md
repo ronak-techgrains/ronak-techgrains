@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #### Top Repositories
 <a href="https://github.com/techgrains/TGFramework-Flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronak-techgrains&repo=TGFramework-Flutter&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techgrains&repo=TGFramework-Flutter&theme=buefy" />
 </a>
 <br />
 <br />
