@@ -20,5 +20,8 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=ronak-techgrains&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ronak-techgrains&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ronak-techgrains/count.svg" />
+</p>
  
