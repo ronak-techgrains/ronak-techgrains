@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
----
-[![](https://visitcount.itsvg.in/api?id=ronak-techgrains&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ronak-techgrains/count.svg" />
