@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
-<p align="center">
+<p align="left">
 <a href="https://stackoverflow.com/users/14602915/ronak-techgrains?tab=profile"><img src="https://github-readme-stackoverflow-trinibs-projects.vercel.app/?userID=14602915&theme=dark">
   
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges && https://github.com/idealclover/GitHub-Star-Counter -->
