@@ -19,17 +19,11 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronak-techgrains&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-#### Top Repositories
-<a href="https://github.com/techgrains/TGFramework-Flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techgrains&repo=TGFramework-Flutter&theme=buefy" />
-</a>
-<br />
-<br />
+<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 
----
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ronak-techgrains/count.svg" />
-</p>
+<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
  
