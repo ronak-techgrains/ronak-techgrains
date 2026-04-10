@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ronak-techgrains&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronak-techgrains&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=ronak-techgrains&theme=merko&layout=compact&border_color=599200&langs_count=6">
+
+<!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=ronak-techgrains&repo=TGFramework-Flutter&theme=merko&border_color=599200">
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="left">
